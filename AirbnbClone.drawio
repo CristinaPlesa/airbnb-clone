@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T21:33:06.236Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="PHacYBNQt9Zu1et2rPC7" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-28T21:35:00.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="3TX2VrcKU3XSJ275HqDt" version="14.8.2" type="github">
   <diagram id="aUEwgWSUnMx6gjoFMZ-2" name="Page-1">
-    <mxGraphModel dx="652" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,11 +22,23 @@
         <mxCell id="q8x_GxHyqPgqStEDYu0S-16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="580" y="880" width="205" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q8x_GxHyqPgqStEDYu0S-13" value="Controllers" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="q8x_GxHyqPgqStEDYu0S-13" value="Navbar" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="295.5" y="680" width="260" height="710" as="geometry" />
         </mxCell>
-        <mxCell id="q8x_GxHyqPgqStEDYu0S-23" value="Places to stay" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="342.5" y="720" width="175" height="180" as="geometry" />
+        <mxCell id="q8x_GxHyqPgqStEDYu0S-24" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="530" y="960" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8x_GxHyqPgqStEDYu0S-26" value="Places to Stay" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="315" y="920" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8x_GxHyqPgqStEDYu0S-27" value="Experiences" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="315" y="980" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8x_GxHyqPgqStEDYu0S-28" value="Online Experiences" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="315" y="1040" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8x_GxHyqPgqStEDYu0S-29" value="Searchbar" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="315" y="1100" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uYH_a5ywyoByY7UAgir8-3" value="Experiences" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="920" width="175" height="190" as="geometry" />
