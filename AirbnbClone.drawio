@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T21:44:16.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="WjxghJD6a2SCzv2ktP92" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-28T22:09:13.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="gxK2dyNt7wwPW6utjIDG" version="14.8.2" type="github">
   <diagram id="aUEwgWSUnMx6gjoFMZ-2" name="Page-1">
     <mxGraphModel dx="782" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="q8x_GxHyqPgqStEDYu0S-29" value="Searchbar" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="338" y="930" width="175" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uYH_a5ywyoByY7UAgir8-5" value="Navbar" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="uYH_a5ywyoByY7UAgir8-5" value="Navbar(maybe in here)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#52FFC5;" vertex="1" parent="1">
           <mxGeometry x="98.75" y="750" width="177.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q8x_GxHyqPgqStEDYu0S-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="q8x_GxHyqPgqStEDYu0S-13" target="q8x_GxHyqPgqStEDYu0S-13">
